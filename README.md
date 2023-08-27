@@ -43,4 +43,7 @@ Steps to setup TailwindCSS using Tailwind CLI
 
   link the stylesheet to the HTML file
 
+
+Documentation: https://tailwindcss.com/docs/installation  
+
   
