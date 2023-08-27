@@ -28,8 +28,19 @@ Steps to setup TailwindCSS using Tailwind CLI
 4.src/input.css
 
   @tailwind base;
-  
+
   @tailwind components;
   
   @tailwind utilities;
+  
+
+5.Start the Tailwind CLI build process
+
+  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+
+
+6.Start using Tailwind in your HTML
+
+  link the stylesheet to the HTML file
+
   
